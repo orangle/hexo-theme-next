@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Love life"
+keywords: "Love life python linux orangleliu"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -163,10 +163,10 @@ mathjax:
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: "c76426a5d9e6794ac5edc882f0445ebd"
 
 #liangzi Analytics ID
-liangzi_analytics: 3605818
+#liangzi_analytics: 3605818
 
 
 # Duoshuo ShortName
