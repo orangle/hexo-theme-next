@@ -147,7 +147,7 @@ auto_excerpt:
   length: 150
 
 # Use Lato font
-use_font_lato: false 
+use_font_lato: false
 
 
 
@@ -171,6 +171,7 @@ baidu_analytics: "c76426a5d9e6794ac5edc882f0445ebd"
 
 # Duoshuo ShortName
 duoshuo_shortname: orangleliu
+duoshuo_hotartical: true
 
 # Disqus
 #disqus_shortname: orangleliunotes
