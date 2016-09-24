@@ -188,7 +188,7 @@ duoshuo_share: true
 
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-84711421-1
 
 
 # Make duoshuo show UA
