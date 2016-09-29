@@ -187,8 +187,11 @@ duoshuo_share: true
 #google_site_verification:
 
 
-# Google Analytics
+# Google Analytics UA-xxx
 google_analytics: UA-84711421-1
+
+# Google mobie ads ca-pub-xxxx
+google_mobie_ads: ca-pub-5122147502034582
 
 
 # Make duoshuo show UA
