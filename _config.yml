@@ -93,7 +93,7 @@ avatar: "https://avatars3.githubusercontent.com/u/2696746?v=3&s=460"
 social:
   GitHub: https://github.com/orangle
   CSDN: http://blog.csdn.net/orangleliu
-
+  蓝色石榴: http://blog.orangleliu.info
 #
 links_title: Links
 # links
@@ -170,8 +170,8 @@ baidu_analytics: "c76426a5d9e6794ac5edc882f0445ebd"
 
 
 # Duoshuo ShortName
-duoshuo_shortname: orangleliu
-duoshuo_hotartical: true
+#duoshuo_shortname: orangleliu
+#duoshuo_hotartical: true
 
 # Disqus
 #disqus_shortname: orangleliunotes
